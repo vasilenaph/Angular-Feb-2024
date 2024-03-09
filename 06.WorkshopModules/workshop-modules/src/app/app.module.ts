@@ -17,7 +17,7 @@ import { ErrorComponent } from './error/error.component';
     AppComponent,
     HomeComponent,
     AddThemeComponent,
-    ErrorComponent
+    ErrorComponent,
   ],
   imports: [
     BrowserModule,
